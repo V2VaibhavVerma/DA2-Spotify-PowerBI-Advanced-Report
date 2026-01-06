@@ -1,7 +1,7 @@
 # 🎧 Spotify Top-50 World Dashboard — Power BI
 
 <p align="center">
-  <img src="assets/home.png" alt="Spotify Power BI Dashboard" width="900"/>
+  <img src="assets/overview.png" alt="Spotify Power BI Dashboard" width="900"/>
 </p>
 
 <p align="center">
